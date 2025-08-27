@@ -1,0 +1,16 @@
+{
+  "ourProducts": "منتجاتنا",
+  "hotOffers": "العروض الساخنة",
+  "popularProducts": "المنتجات الشعبية",
+  "featuredProducts": "المنتجات المميزة",
+  "signIn": "تسجيل الدخول",
+  "signUp": "تسجيل",
+  "name" : "الاسم",
+  "email": "البريد الإلكتروني",
+  "enterYourEmail": "أدخل بريدك الإلكتروني",
+  "password": "كلمة المرور",
+  "confirmPass" : "تأكيد كلمه المرور",
+  "enterYourPassword": "أدخل كلمة المرور",
+  "welcomeBack": "مرحباً بعودتك",
+  "signInToShopCraft": "سجل الدخول إلى ShopCraft"
+}
